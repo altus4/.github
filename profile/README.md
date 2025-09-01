@@ -15,6 +15,27 @@ Altus 4 is an AI-enhanced search engine that transforms MySQL's full-text search
 ## Quick Start
 
 ```bash
-npm install -g altus4
-altus4 init
-altus4 start
+# Clone the repository
+git clone https://github.com/altus4/core.git
+cd core
+
+# Install dependencies
+npm install
+
+# Set up environment
+cp .env.example .env
+# Edit .env with your database and API configurations
+
+# Run database migrations (if needed)
+npm run migrate
+
+# Start the application
+npm start
+```
+
+## Learn More
+
+- [**Documentation**](https://github.com/altus4/core#readme) - Complete setup and usage guide
+- [**API Reference**](https://github.com/altus4/core#api-documentation) - REST API endpoints
+- [**Architecture**](https://github.com/altus4/core/tree/main/docs/architecture) - System design and patterns
+- [**Contributing**](https://github.com/altus4/core#contributing) - Join our community
