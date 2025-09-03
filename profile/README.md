@@ -35,7 +35,7 @@ npm start
 
 ## Learn More
 
-- [**Documentation**](https://github.com/altus4/core#readme) - Complete setup and usage guide
-- [**API Reference**](https://github.com/altus4/core/tree/main/docs/api) - REST API endpoints
-- [**Architecture**](https://github.com/altus4/core/tree/main/docs/architecture) - System design and patterns
+- [**Documentation**](https://altus4.thavarshan.com/docs) - Complete setup and usage guide
+- [**API Reference**](https://altus4.thavarshan.com/docs/api) - REST API endpoints
+- [**Architecture**](https://altus4.thavarshan.com/docs/architecture) - System design and patterns
 - [**Contributing**](https://github.com/altus4/core#contributing) - Join our community
